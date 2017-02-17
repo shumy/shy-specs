@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.github.shumy</groupId>
+  <artifactId>mchannels-spec</artifactId>
+  <version>1.0.0</version>
+  <name>shy-specs - mchannels</name>
+  <description>Java shared specification modules</description>
+  <url>https://github.com/shumy/shy-specs/mchannels-spec</url>
+  <licenses>
+    <license>
+      <name>Apache License, Version 2.0</name>
+      <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+  <developers>
+    <developer>
+      <name>Micael Pedrosa</name>
+      <email>micaelpedrosa@gmail.com</email>
+      <organization>IEETA</organization>
+      <organizationUrl>http://ieeta.web.ua.pt/</organizationUrl>
+    </developer>
+  </developers>
+  <scm>
+    <connection>scm:git:git@github.com:shumy/shy-specs.git/mchannels-spec</connection>
+    <developerConnection>scm:git:git@github.com:shumy/shy-specs.git/mchannels-spec</developerConnection>
+    <url>git@github.com:shumy/shy-specs.git/mchannels-spec</url>
+  </scm>
+</project>
